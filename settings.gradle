@@ -1,0 +1,2 @@
+rootProject.name='ProjetoNac-Intents'
+include ':app'
